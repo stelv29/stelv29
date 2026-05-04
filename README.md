@@ -12,7 +12,7 @@
 
 ## 🔭 No que estou trabalhando agora
 
-- 🏗️ **TCC:** Sistema web para gestão financeira e contratual de aluguel de imóveis com arquitetura de **Monólito Modular**
+- 🏗️ **TCC:** Sistema web para gestão financeira e contratual de aluguel de imóveis com arquitetura de **Monolito Modular**
 - 🧪 **QA & Full-stack:** Aprimorando roadmaps de testes e desenvolvimento web completo
 - 🤖 **IA & Lógica:** Explorando Problemas de Satisfação de Restrições (CSP) e algoritmos de busca
 
