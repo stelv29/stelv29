@@ -43,9 +43,14 @@
 
 <div align="center">
 
-![Stéphany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stelv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316)
+![Stéphany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stelv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stelv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316)
+![GitHub Streak](https://streak-stats.demolab.com?user=stelv29&theme=tokyonight&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stelv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&cache_seconds=1800)
+
+### 🐍 Minhas contribuições sendo devoradas
+![snake gif](https://github.com/stelv29/stelv29/blob/output/github-snake-dark.svg)
 
 </div>
 
