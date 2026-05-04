@@ -4,7 +4,7 @@
 
 ### Engenheira de Computação em formação 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=QA+%26+Full-Stack+Developer;Arquitetura+Monólito+Modular;Explorando+IA+%26+Algoritmos;A+lógica+é+o+princípio+da+sabedoria)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=QA+%26+Full-Stack+Developer;Arquitetura+Monólito+Modular;Explorando+IA+%26+Algoritmos;A+lógica+é+o+princípio+da+sabedoria)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,8 +34,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏗️ Arquitetura & Qualidade
-![Modular Monolith](https://img.shields.io/badge/Arquitetura-Monólito_Modular-7F77DD?style=for-the-badge)
-![QA](https://img.shields.io/badge/Quality_Assurance-0F6E56?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Modular Monolith](https://img.shields.io/badge/Arquitetura-Monólito_Modular-555?style=for-the-badge)
+![QA](https://img.shields.io/badge/Quality_Assurance-555?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 ---
 
@@ -43,15 +43,15 @@
 
 <div align="center">
 
-![Stéphany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stelv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD)
+![Stéphany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stelv29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stelv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stelv29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316)
 
 </div>
 
 ---
 
-## 🌸 Hobbies & Paixões
+## 🍊 Hobbies & Paixões
 
 <div align="center">
 
@@ -80,8 +80,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stelv/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ste.engcomp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stelv/)
+[![Email](https://img.shields.io/badge/Email-EA6C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ste.engcomp@gmail.com)
 
 </div>
 
@@ -91,6 +91,6 @@
 
 *"A lógica é o princípio da sabedoria, não o fim."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=stelv29&color=7F77DD&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=stelv29&color=F97316&style=flat-square)
 
 </div>
